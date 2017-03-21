@@ -1,0 +1,65 @@
+/********************************/
+/*	Client: Rustic Pear Salon	*/
+/*	Mobile Designer:			*/
+/*	Anthony Fernandez			*/
+/*	CSS Style Sheet				*/
+/*								*/
+/*	Date: 3Mar2017		   	    */
+/********************************/
+h2 {
+	text-align: center;
+	margin: 0 0 1em;
+	padding: 1px 10px 10px 10px;
+}
+#home h2 {
+	margin: 0 0 .5em;
+}
+h3 {
+	text-align: center;
+	margin: .75em 0 .5em;
+	padding-top: .5em;
+	border-top: 2px solid blue;
+	padding: 1px 10px;
+}
+h4 {
+	text-align: center;
+	margin: .75em 0 .25em;
+	padding: 5px 5px 1px 15px;
+}
+p {	
+	text-align: center;
+	margin: 0 0 .5em;
+}
+a {
+	margin-bottom: .5em;
+}
+q {
+	margin-bottom: .5em;
+	display: block;
+}
+cite {
+	margin: .5em 0;
+	display: block;
+	text-align: right;
+}
+ul, li {
+	margin: 0;
+	padding: 0;
+}
+ul {
+	padding-left: 1em;
+	padding-bottom: .5em;
+}
+li {
+	padding-left: .25em;
+	padding-bottom: .25em;
+}
+img {
+	float: center;
+	display: block;
+	max-width:100%;
+	height: auto;
+	margin: auto;
+	padding: 1px 10px 10px 10px;
+}
+
