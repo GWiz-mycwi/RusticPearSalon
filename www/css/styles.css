@@ -1,11 +1,15 @@
-/********************************/
-/*	Client: Rustic Pear Salon	*/
-/*	Mobile Designer:			*/
-/*	Anthony Fernandez			*/
-/*	CSS Style Sheet				*/
-/*								*/
-/*	Date: 3Mar2017		   	    */
-/********************************/
+/*******************************************************/
+/*	Client: Rustic Pear Salon	                       */
+/*	Mobile Designer:			                       */
+/*	Anthony Fernandez			                       */
+/*	CSS Style Sheet				                       */
+/*								                       */
+/*	Date: 21Mar2017									   */
+/* Modified line 12: Added H1 tag align text to center */  	
+/*******************************************************/
+h1 {
+	text-align: center;	
+}
 h2 {
 	text-align: center;
 	margin: 0 0 1em;
